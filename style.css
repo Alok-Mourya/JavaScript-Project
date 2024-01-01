@@ -4,7 +4,7 @@
 }
 
 #main-page {
-    background-image: url("image/background.jpg");
+    background-image: url("background.jpg");
     width: 100vw;
     height: 100vh;
 
@@ -241,7 +241,7 @@ a #btn {
 
 }
 .mobile-img{
-   background-image:url("image/mobilegame.png");
+   background-image:url("mobilegame.png");
     width: 70vw;
     height: 30vh;
     filter: invert(70%);
