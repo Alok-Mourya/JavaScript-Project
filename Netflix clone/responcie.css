@@ -1,0 +1,75 @@
+@media only screen and (max-width:830px) {
+
+    #btn {
+        margin-left: 50vh;
+    }
+
+    #sel {
+        margin-left: 40vh;
+    }
+
+    .text-price {
+        font-size: 40px;
+        /* color: red; */
+        margin: 260px 56px 38px 70px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+
+    }
+
+    .modify {
+        font-size: 28px;
+        position: relative;
+
+    }
+
+    .join-now {
+        font-size: 28px;
+        margin: 35px 61px 40px 70px;
+
+    }
+
+    #mail {
+        width: 47vw;
+        height: 5vh;
+        margin-top: 80px;
+    }
+
+    #btn1 {
+        background-color: rgba(255, 0, 0, 0.783);
+        width: 161px;
+        height: 65px;
+        margin-top: 80px;
+    }
+
+    #rechrage-plane {
+        display: inline-block;
+    }
+
+    .plans {
+        font-size: 39px;
+        margin: 30px 61px 0px 50px;
+    }
+
+    .pay {
+        height: 204px;
+        width: 265px;
+    }
+
+    .pay1 {
+        display: inline-block;
+    }
+
+    .pay2 {
+        display: inline-block;
+    }
+
+}
+
+@media screen and ( max-width:590px) {
+    .text-price{
+        color: red;
+    }
+    
+}
